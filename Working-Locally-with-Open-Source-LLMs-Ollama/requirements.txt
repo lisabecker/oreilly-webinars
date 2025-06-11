@@ -1,0 +1,4 @@
+langchain==0.3.25
+langchain-community==0.3.25
+langchain-ollama==0.3.3
+chromadb==1.0.12
